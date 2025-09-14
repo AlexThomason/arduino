@@ -9,4 +9,4 @@
 
 [Schedule Notes](https://github.com/dward2/BME547/blob/main/schedule.md)
 
-[Google Meet Link](https://meet.google.com/vdt-dhjg-ihs?authuser=0&hs=122)
+[Google Meet Link](https://calendar.app.google/CePN7uqeaSoHy9hV8)
